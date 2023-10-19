@@ -1,16 +1,28 @@
-# front
+## Arch
 
-## Arch 
+> Source edu
+>
+>> https://www.youtube.com/@UlbiTV
 
-webpack - bundler
-codeLang - typescript
+> MD Guide
+>
+>> https://www.markdownguide.org/basic-syntax/
 
-### Webpack solutions
-__Main page__        
+> git
+>
+>> # paste url here(c)
+
+>npm
+>
+>> # paste url here
+## webpack
 > https://webpack.js.org/
 >
->HTMLWebPlugin  
+> HTMLWebPlugin  
 >   
 >> https://webpack.js.org/plugins/html-webpack-plugin/#root
 
-
+## typescript     
+> main page
+>
+>> https://www.typescriptlang.org/
